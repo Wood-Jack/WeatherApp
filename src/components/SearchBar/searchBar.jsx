@@ -7,7 +7,7 @@ import { updateSearch, updateWeatherInfo, updateHistory } from './searchActions'
 
 export default class SearchBar extends React.Component {
 
-  constructor(props) {
+  constructor(props) { 
     super(props);
 
     this.changeSearchBar = this.changeSearchBar.bind(this);
@@ -22,7 +22,7 @@ export default class SearchBar extends React.Component {
 
   changeSearchBar(e) {
     const { dispatch } = this.props;
-    const { value }= e.target;
+    const { value } = e.target;
 
     dispatch(updateSearch(value));
   }
@@ -39,7 +39,7 @@ export default class SearchBar extends React.Component {
     dispatch(updateWeatherInfo('San Diego'));
     dispatch(updateHistory('San Diego'));
 
-  }
+  } 
  
   clickSearchButtonNY() {
     const { dispatch, userQuery } = this.props;

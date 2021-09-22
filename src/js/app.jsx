@@ -3,6 +3,7 @@ import React from 'react';
 import CityInfo from '../components/CityInfo';
 import SearchHistory from '../components/SearchHistory';
 import SearchBar from '../components/SearchBar';
+import Tabs from '../components/tabs';
 
 export default class App extends React.Component {
   render() {
@@ -10,6 +11,7 @@ export default class App extends React.Component {
 
 
     return (
+      
       <div className= 'container'>
         <div className='jumbotron'>
               <h1 className='display-3 text-center'>Weather App</h1>
@@ -17,6 +19,7 @@ export default class App extends React.Component {
             </div>
             <div className='content-container'>
           <SearchBar />
+         
           <div className="row">
             <CityInfo />
             <SearchHistory />
