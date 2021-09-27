@@ -1,5 +1,5 @@
 import {connect} from 'react-redux' ;
-import historySearcher from './searchHistory';
+import SearchHistory from './searchHistory';
 
  
 function mapStoreToProps(store) {
@@ -9,4 +9,4 @@ function mapStoreToProps(store) {
     };
     
 }  
-export default connect(mapStoreToProps)(historySearcher); 
+export default connect(mapStoreToProps)(SearchHistory); 

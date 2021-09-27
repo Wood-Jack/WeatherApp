@@ -1,14 +1,12 @@
-import {connect} from 'react-redux' ;
+/* eslint-disable linebreak-style */
+import { connect } from 'react-redux';
 import cityInfo from './CityInfo';
 
-function mapStoreToProps(store){
+function mapStoreToProps(store) {
+  return {
 
-    return {
-
-      weatherInfo: store.searchReducer.weatherInfo,
-    };
-
-    
+    weatherInfo: store.searchReducer.weatherInfo,
+  };
 }
 
 export default connect(mapStoreToProps)(cityInfo);

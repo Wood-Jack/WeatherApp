@@ -1,82 +1,82 @@
-// /* eslint-disable linebreak-style */
-// import axios from 'axios';
+/* eslint-disable linebreak-style */
+import axios from 'axios';
 
 
-// export function updateSanDiego(userQuery){
+export function updateSanDiego(userQuery){
 
-//   userQuery = 'San Diego' ;
+  userQuery = 'San Diego' ;
 
-//   return {
-//     type: 'UPDATE_SAN_DIEGO',
-//     payload: axios.get(`/api?q=${userQuery}`)
-//         .then((response) => {
-//           console.log(response)
-//           return response;
-//         })
-//         .catch(err => console.log(err))
-//   };
-// }
+  return {
+    type: 'UPDATE_SAN_DIEGO',
+    payload: axios.get(`/api?q=${userQuery}`)
+        .then((response) => {
+          console.log(response)
+          return response;
+        })
+        .catch(err => console.log(err))
+  };
+}
 
-// export function updateNewYork(userQuery)
-// {
-//   userQuery = 'New York';
+export function updateNewYork(userQuery)
+{
+  userQuery = 'New York';
 
-//   return {
+  return {
 
-//     type: 'UPDATE_NEW_YORK',
-//     payload: axios.get(`/api?q=${userQuery}`)
-//             .then((response) => {
-//               console.log(response)
-//               return response;
-//             })
-//             .catch(err => console.log(err))
-//   };
-// }
+    type: 'UPDATE_NEW_YORK',
+    payload: axios.get(`/api?q=${userQuery}`)
+            .then((response) => {
+              console.log(response)
+              return response;
+            })
+            .catch(err => console.log(err))
+  };
+}
 
-// export function updateWashington(userQuery){
+export function updateWashington(userQuery){
 
-//   userQuery = 'Washington' ;
+  userQuery = 'Washington' ;
 
-//   return {
-//     type: 'UPDATE_WASHINGTON',
-//     payload: axios.get(`/api?q=${userQuery}`)
-//         .then((response) => {
-//           console.log(response)
-//           return response;
-//         })
-//         .catch(err => console.log(err))
-//   };
-// }
+  return {
+    type: 'UPDATE_WASHINGTON',
+    payload: axios.get(`/api?q=${userQuery}`)
+        .then((response) => {
+          console.log(response)
+          return response;
+        })
+        .catch(err => console.log(err))
+  };
+}
 
-// export function updatePhoenix(userQuery)
-// {
-//   userQuery = 'Phoenix';
+export function updatePhoenix(userQuery)
+{
+  userQuery = 'Phoenix';
 
-//   return {
+  return {
 
-//     type: 'UPDATE_PHOENIX',
-//     payload: axios.get(`/api?q=${userQuery}`)
-//             .then((response) => {
-//               console.log(response)
-//               return response;
-//             })
-//             .catch(err => console.log(err))
-//   };
-// }
+    type: 'UPDATE_PHOENIX',
+    payload: axios.get(`/api?q=${userQuery}`)
+            .then((response) => {
+              console.log(response)
+              return response;
+            })
+            .catch(err => console.log(err))
+  };
+}
 
-// export function updateLa(userQuery)
-// {
-//   // eslint-disable-next-line no-param-reassign
-//   userQuery = 'Los Angeles';
+export function updateLa(userQuery)
+{
+  // eslint-disable-next-line no-param-reassign
+  userQuery = 'Los Angeles';
 
-//   return {
+  return {
 
-//     type: 'UPDATE_LA',
-//     payload: axios.get(`/api?q=${userQuery}`)
-//             .then((response) => {
-//               console.log(response)
-//               return response;
-//             })
-//             .catch(err => console.log(err))
-//   };
-// }
+    type: 'UPDATE_LA',
+    payload: axios.get(`/api?q=${userQuery}`)
+            .then((response) => {
+              console.log(response)
+              return response;
+            })
+            .catch(err => console.log(err))
+  };
+}

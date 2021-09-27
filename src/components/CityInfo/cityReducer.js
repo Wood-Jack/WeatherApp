@@ -1,17 +1,17 @@
+/* eslint-disable linebreak-style */
 const defaultState = {
 
 };
 
- 
-export default function cityReducer (state = defaultState, action){
-   
-  const { type, payload} = action;
 
-  switch(type){
+export default function cityReducer(state = defaultState, action) {
+  const { type } = action;
 
-        default:
+  switch (type) {
 
-            return state
-            
-    }
-} 
+    default:
+
+      return state;
+
+  }
+}

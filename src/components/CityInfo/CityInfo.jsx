@@ -1,28 +1,35 @@
+/* eslint-disable linebreak-style */
 import React from 'react';
 
+
 export default class cityInfo extends React.Component {
-
   render() {
-    const { weatherInfo } = this.props; 
+    // eslint-disable-next-line react/prop-types
+    const { weatherInfo } = this.props;
+    console.log('weather info', weatherInfo);
     const icon = weatherInfo.data.weather[0].icon;
-    console.log(weatherInfo);
-
+   // console.log(weatherInfo);
     const url = `http://openweathermap.org/img/w/${icon}.png`;
-
     return (
 
       <div>
-        <div className='card' 
-             id='city-card-border'>
-          <div className='card-header' 
-               id='city-card-header'>
+        <div
+          className='card'
+          id='city-card-border'
+        >
+          <div
+            className='card-header'
+            id='city-card-header'
+          >
             City Information
           </div>
           <div className='card-body'>
             <div className='row justify-content-center'>
-              {icon != '' && <img src={url} />}
-              <p className='font-weight-bold' 
-                 id='cityName'>
+              {icon != '' && <img src={ url } />}
+              <p
+                className='font-weight-bold'
+                id='cityName'
+              >
                 {weatherInfo.data.name}
               </p>
             </div>
@@ -37,8 +44,10 @@ export default class cityInfo extends React.Component {
                   Temperature (F)
                 </p>
                 {weatherInfo.data.main.temp != '' &&
-                  <p className='text-center font-weight-bold' 
-                     id='cityInformation'>
+                  <p
+                    className='text-center font-weight-bold'
+                    id='cityInformation'
+                  >
                     {weatherInfo.data.main.temp}F
                 </p>}
               </div>
@@ -46,18 +55,22 @@ export default class cityInfo extends React.Component {
                 <p className='font-weight-bold text-center'>
                   Pressure
                 </p>
-                  <p className='text-center font-weight-bold' 
-                     id='cityInformation'>
-                    {weatherInfo.data.main.pressure}
-                  </p>
+                <p
+                  className='text-center font-weight-bold'
+                  id='cityInformation'
+                >
+                  {weatherInfo.data.main.pressure}
+                </p>
               </div>
               <div className='col-4'>
                 <p className='font-weight-bold text-center'>
                   Hummidity
                 </p>
                 {weatherInfo.data.main.humidity != '' &&
-                  <p className='text-center font-weight-bold' 
-                     id='cityInformation'>
+                  <p
+                    className='text-center font-weight-bold'
+                    id='cityInformation'
+                  >
                     {weatherInfo.data.main.humidity}%
                 </p>}
               </div>
@@ -68,8 +81,10 @@ export default class cityInfo extends React.Component {
                   Lowest Temp(F)
                 </p>
                 {weatherInfo.data.main.temp_min != '' &&
-                  <p className='text-center font-weight-bold' 
-                     id='cityInformation'>
+                  <p
+                    className='text-center font-weight-bold'
+                    id='cityInformation'
+                  >
                     {weatherInfo.data.main.temp_min}F
                 </p>}
               </div>
@@ -78,8 +93,10 @@ export default class cityInfo extends React.Component {
                   Highest Temp(F)
                 </p>
                 {weatherInfo.data.main.temp_max != '' &&
-                  <p className='text-center font-weight-bold' 
-                     id='cityInformation'>
+                  <p
+                    className='text-center font-weight-bold'
+                    id='cityInformation'
+                  >
                     {weatherInfo.data.main.temp_max}F
                 </p>}
               </div>
@@ -88,8 +105,10 @@ export default class cityInfo extends React.Component {
                   Wind Speed
                 </p>
                 {weatherInfo.data.wind.speed != '' &&
-                  <p className='text-center font-weight-bold' 
-                     id='cityInformation'>
+                  <p
+                    className='text-center font-weight-bold'
+                    id='cityInformation'
+                  >
                     {weatherInfo.data.wind.speed}mph
                 </p>}
               </div>
@@ -97,8 +116,6 @@ export default class cityInfo extends React.Component {
           </div>
         </div>
       </div>
-
-
     );
   }
 }

@@ -21,6 +21,7 @@ export default class App extends React.Component {
          
           <div className="row">
             <CityInfo />
+            
             <SearchHistory />
           </div>
         </div>
