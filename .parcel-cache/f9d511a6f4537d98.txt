@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 13597
+=======
+13596
+>>>>>>> 200ccbb50b6fedfbf9e8b95bb0028c0e04ecbb22
 94D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\object-inspect\readme.markdown131697679940000000 0
 84D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\request\package.json132757569768996370 0
 73D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\cli-width132757569700810370 1
@@ -8,7 +12,11 @@
 64D:\CodingSchool\ReactProjects\react200-weather-app\.editorconfig132756742232078296 0
 85D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\through2\package.json132757569747088388 0
 81D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\lodash-es\math.js121436361000000000 0
+<<<<<<< HEAD
 89D:\CodingSchool\ReactProjects\react200-weather-app\src\components\CityInfo\cityReducer.js132772280344081294 0
+=======
+89D:\CodingSchool\ReactProjects\react200-weather-app\src\components\CityInfo\cityReducer.js132766212300522412 0
+>>>>>>> 200ccbb50b6fedfbf9e8b95bb0028c0e04ecbb22
 81D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\destroy\README.md130971761770000000 0
 86D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\ua-parser-js\readme.md132044770750000000 0
 111D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\electron\dist\api-ms-win-core-memory-l1-1-0.dll132757570344650409 0
@@ -41,7 +49,11 @@
 89D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\finalhandler\node_modules132757569570405570 1
 90D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\es5-ext\string\#\ends-with132757569514221365 1
 89D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\ua-parser-js\package.json132757569846668901 0
+<<<<<<< HEAD
 55D:\CodingSchool\ReactProjects\react200-weather-app\dist132772283144408025 1
+=======
+55D:\CodingSchool\ReactProjects\react200-weather-app\dist132767906958471134 1
+>>>>>>> 200ccbb50b6fedfbf9e8b95bb0028c0e04ecbb22
 102D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\split2\node_modules\xtend\immutable.js121436361000000000 0
 101D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\table\dist\calculateRowHeightIndex.js131212841140000000 0
 96D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\eslint-plugin-react\CHANGELOG.md131345200140000000 0
@@ -63,7 +75,11 @@
 93D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\uri-js\dist\esnext\uri.js.map131698539500000000 0
 85D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\statuses\package.json132757569943466513 0
 102D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\caniuse-db\features-json\push-api.json132147936800000000 0
+<<<<<<< HEAD
 63D:\CodingSchool\ReactProjects\react200-weather-app\package.json132772283813154812 0
+=======
+63D:\CodingSchool\ReactProjects\react200-weather-app\package.json132757570356496493 0
+>>>>>>> 200ccbb50b6fedfbf9e8b95bb0028c0e04ecbb22
 88D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\lodash-es\_createCtor.js121436361000000000 0
 91D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\minimist\test\whitespace.js130833758740000000 0
 71D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\globals132757570177991088 1
@@ -86,7 +102,11 @@
 101D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\es5-ext\string\#\starts-with\index.js121436361000000000 0
 89D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\uri-js\src\regexps-iri.ts131348417480000000 0
 99D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\bluebird\js\browser\bluebird.min.js121436361000000000 0
+<<<<<<< HEAD
 85D:\CodingSchool\ReactProjects\react200-weather-app\src\components\tabs\tabsActions.js132769651372372358 0
+=======
+85D:\CodingSchool\ReactProjects\react200-weather-app\src\components\tabs\tabsActions.js132767906711098241 0
+>>>>>>> 200ccbb50b6fedfbf9e8b95bb0028c0e04ecbb22
 76D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\jsonify\test132757569337014402 1
 83D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\verror\package.json132757569768996370 0
 90D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\lodash-es\_listCacheHas.js121436361000000000 0
@@ -99,7 +119,11 @@
 123D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\eslint-plugin-jsx-a11y\tests\src\rules\img-redundant-alt.js131177248590000000 0
 85D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\lodash\fp\parseInt.js121436361000000000 0
 122D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\enqueue\components\matthewmueller-wrap-fn@0.0.1\.npmignore130540103960000000 0
+<<<<<<< HEAD
 63D:\CodingSchool\ReactProjects\react200-weather-app\node_modules132772283811476727 1
+=======
+63D:\CodingSchool\ReactProjects\react200-weather-app\node_modules132757570352252770 1
+>>>>>>> 200ccbb50b6fedfbf9e8b95bb0028c0e04ecbb22
 87D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\react-lifecycles-compat132757569965322815 1
 77D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\indent-string132757569965151403 1
 86D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\fbjs\lib\Style.js.flow131732590000000000 0
@@ -111,9 +135,12 @@
 67D:\CodingSchool\ReactProjects\react200-weather-app\src\js\index.jsx132756742232612463 0
 78D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\lodash\noop.js121436361000000000 0
 72D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\less\bin132757569280832378 1
+<<<<<<< HEAD
 72D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\dashdash132757570290608842 1
 100D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\caniuse-db\region-usage-json\SK.json132147939060000000 0
 59D:\CodingSchool\ReactProjects\react200-weather-app\Procfile132767969673397082 0
+=======
+>>>>>>> 200ccbb50b6fedfbf9e8b95bb0028c0e04ecbb22
 98D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\caniuse-db\features-json\webp.json132147936800000000 0
 97D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\eslint\node_modules\debug\node.js131419593830000000 0
 87D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\lodash-es\_arraySome.js121436361000000000 0
@@ -218,7 +245,11 @@
 87D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\formidable\package.json132757570144336572 0
 114D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\fbjs\node_modules\core-js\fn\array\reduce-right.js131132596110000000 0
 89D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\node-fetch\lib\headers.js131466627260000000 0
+<<<<<<< HEAD
 79D:\CodingSchool\ReactProjects\react200-weather-app\src\components\tabs\index.js132772281681834106 0
+=======
+79D:\CodingSchool\ReactProjects\react200-weather-app\src\components\tabs\index.js132767906711098241 0
+>>>>>>> 200ccbb50b6fedfbf9e8b95bb0028c0e04ecbb22
 90D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\lodash\fp\findIndexFrom.js121436361000000000 0
 94D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\enzyme\src\ShallowTraversal.js131357312680000000 0
 94D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\lodash-es\_composeArgsRight.js121436361000000000 0
@@ -234,6 +265,28 @@
 93D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\graceful-fs\legacy-streams.js121436361000000000 0
 69D:\CodingSchool\ReactProjects\react200-weather-app\src\css\style.less132756742232299787 0
 68D:\CodingSchool\ReactProjects\react200-weather-app\test\main.spec.js132756742232887674 0
+<<<<<<< HEAD
+=======
+73D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\sshpk\lib132757569303840305 1
+98D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\send\node_modules\debug\.npmignore131419593830000000 0
+102D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\less\test\less\plugin\plugin-scope2.js121436361000000000 0
+84D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\caniuse-db\README.md131837092340000000 0
+72D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\fs-extra132757569834554191 1
+118D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\eslint-plugin-lodash-fp\rules\no-partial-of-curried.js131129839580000000 0
+86D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\whatwg-fetch\README.md121436361000000000 0
+110D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\fbjs\node_modules\core-js\library\fn\node-list132757569440320707 1
+101D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\es5-ext\test\array\#\binary-search.js121436361000000000 0
+71D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\rechoir132757569964421267 1
+91D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\react\lib\ReactPropTypes.js131508581490000000 0
+99D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\js-base64\.attic\test-moment\es6.js121436361000000000 0
+109D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\eslint-plugin-import\lib\rules\no-commonjs.js131191023810000000 0
+102D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\table\node_modules\ansi-regex\index.js131424589280000000 0
+67D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\has132757570173351831 1
+72D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\asynckit132757569700479831 1
+101D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\split2\node_modules\isarray\README.md130942154450000000 0
+110D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\caniuse-db\features-json\css-color-adjust.json132147936800000000 0
+90D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\performance-now\.npmignore131279171540000000 0
+>>>>>>> 200ccbb50b6fedfbf9e8b95bb0028c0e04ecbb22
 92D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\tough-cookie\lib\memstore.js121436361000000000 0
 82D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\lodash\function.js121436361000000000 0
 78D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\lodash\join.js121436361000000000 0
@@ -261,8 +314,13 @@
 75D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\rechoir\lib132757569315978307 1
 80D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\wordwrap\LICENSE130754920710000000 0
 76D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\fs-extra\lib132757569300934702 1
+<<<<<<< HEAD
 97D:\CodingSchool\ReactProjects\react200-weather-app\src\components\SearchHistory\searchHistory.jsx132772280344081294 0
 79D:\CodingSchool\ReactProjects\react200-weather-app\src\components\tabs\tabs.jsx132772281681834106 0
+=======
+97D:\CodingSchool\ReactProjects\react200-weather-app\src\components\SearchHistory\searchHistory.jsx132763657391964843 0
+79D:\CodingSchool\ReactProjects\react200-weather-app\src\components\tabs\tabs.jsx132767906711098241 0
+>>>>>>> 200ccbb50b6fedfbf9e8b95bb0028c0e04ecbb22
 102D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\es5-ext\test\reg-exp\#\search\index.js121436361000000000 0
 90D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\superagent\Contributing.md130844948320000000 0
 58D:\CodingSchool\ReactProjects\react200-weather-app\src\css132756742232299787 1
@@ -292,14 +350,23 @@
 108D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\es5-ext\object\validate-array-like-object.js121436361000000000 0
 99D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\uri-js\dist\esnext\regexps-uri.d.ts131698524240000000 0
 95D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\eslint\lib\token-store\utils.js131354637820000000 0
+<<<<<<< HEAD
 65D:\CodingSchool\ReactProjects\react200-weather-app\src\js\app.jsx132769663148649523 0
+=======
+65D:\CodingSchool\ReactProjects\react200-weather-app\src\js\app.jsx132767906954039448 0
+>>>>>>> 200ccbb50b6fedfbf9e8b95bb0028c0e04ecbb22
 78D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\type\test\_lib132757569295768954 1
 78D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\yauzl\index.js130960654750000000 0
 71D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\esquery132757570208802549 1
 94D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\domutils\test\tests\helpers.js130672805140000000 0
 83D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\lodash-es\before.js121436361000000000 0
+<<<<<<< HEAD
 72D:\CodingSchool\ReactProjects\react200-weather-app\src\js\rootReducer.js132772281681834106 0
 70D:\CodingSchool\ReactProjects\react200-weather-app\src\js\rootStore.js132772269064122197 0
+=======
+72D:\CodingSchool\ReactProjects\react200-weather-app\src\js\rootReducer.js132763607467041540 0
+70D:\CodingSchool\ReactProjects\react200-weather-app\src\js\rootStore.js132763601821187018 0
+>>>>>>> 200ccbb50b6fedfbf9e8b95bb0028c0e04ecbb22
 126D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\fbjs\node_modules\core-js\modules\es6.reflect.is-extensible.js131132596110000000 0
 66D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\rc132757569957482414 1
 85D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\lodash\fp\property.js121436361000000000 0
@@ -321,7 +388,11 @@
 85D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\sprintf-js\.npmignore130434101930000000 0
 72D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\boolbase132757569700639954 1
 88D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\function-bind\.jscs.json131483794420000000 0
+<<<<<<< HEAD
 87D:\CodingSchool\ReactProjects\react200-weather-app\src\components\CityInfo\CityInfo.jsx132772262994842381 0
+=======
+87D:\CodingSchool\ReactProjects\react200-weather-app\src\components\CityInfo\CityInfo.jsx132766234598042528 0
+>>>>>>> 200ccbb50b6fedfbf9e8b95bb0028c0e04ecbb22
 94D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\request\lib\getProxyFromURI.js121436361000000000 0
 93D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\formidable\lib\json_parser.js131649016430000000 0
 107D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\fbjs\node_modules\core-js\fn\set-timeout.js131132596110000000 0
@@ -351,8 +422,13 @@
 78D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\.bin\errno.cmd132757570297885304 0
 110D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\react-dom\lib\ReactHostOperationHistoryHook.js131508581500000000 0
 92D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\es5-ext\test\promise\lazy.js121436361000000000 0
+<<<<<<< HEAD
 88D:\CodingSchool\ReactProjects\react200-weather-app\src\components\SearchHistory\index.js132769628281272040 0
 97D:\CodingSchool\ReactProjects\react200-weather-app\src\components\SearchHistory\historyReducer.js132769704778534856 0
+=======
+88D:\CodingSchool\ReactProjects\react200-weather-app\src\components\SearchHistory\index.js132766204299926483 0
+97D:\CodingSchool\ReactProjects\react200-weather-app\src\components\SearchHistory\historyReducer.js132763657391964843 0
+>>>>>>> 200ccbb50b6fedfbf9e8b95bb0028c0e04ecbb22
 86D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\has-symbols\.npmignore131187382980000000 0
 84D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\encoding\.travis.yml130953349450000000 0
 100D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\hoist-non-react-statics\CHANGELOG.md121436361000000000 0
@@ -399,7 +475,11 @@
 86D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\object.assign\index.js131225420930000000 0
 121D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\fbjs\node_modules\core-js\library\modules\$.collection.js131132596110000000 0
 103D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\enzyme\docs\api\ReactWrapper\childAt.md131357312680000000 0
+<<<<<<< HEAD
 89D:\CodingSchool\ReactProjects\react200-weather-app\src\components\SearchBar\searchBar.jsx132772283136823444 0
+=======
+89D:\CodingSchool\ReactProjects\react200-weather-app\src\components\SearchBar\searchBar.jsx132767129535321360 0
+>>>>>>> 200ccbb50b6fedfbf9e8b95bb0028c0e04ecbb22
 101D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\less\test\less\globalVars\simple.json121436361000000000 0
 107D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\redux-devtools-instrument\src\instrument.js121436361000000000 0
 78D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\setprototypeof132757569958335799 1
@@ -409,7 +489,11 @@
 84D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\array.prototype.find132757569957040219 1
 88D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\jsx-ast-utils\getProp.js131367451820000000 0
 120D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\fbjs\node_modules\core-js\library\modules\$.set-proto.js131132596110000000 0
+<<<<<<< HEAD
 92D:\CodingSchool\ReactProjects\react200-weather-app\src\components\SearchBar\searchReducer.js132772231496998576 0
+=======
+92D:\CodingSchool\ReactProjects\react200-weather-app\src\components\SearchBar\searchReducer.js132766191330037161 0
+>>>>>>> 200ccbb50b6fedfbf9e8b95bb0028c0e04ecbb22
 82D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\repeating\index.js130951919720000000 0
 113D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\resolve\test\resolver\other_path\lib\other-lib.js121436361000000000 0
 81D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\domutils\index.js130672805140000000 0
@@ -424,7 +508,11 @@
 88D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\lodash\_memoizeCapped.js121436361000000000 0
 99D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\regexp.prototype.flags\package.json132757569961797103 0
 92D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\react-dom\lib\CSSProperty.js131508581500000000 0
+<<<<<<< HEAD
 83D:\CodingSchool\ReactProjects\react200-weather-app\src\components\CityInfo\index.js132772277034321427 0
+=======
+83D:\CodingSchool\ReactProjects\react200-weather-app\src\components\CityInfo\index.js132766242804188597 0
+>>>>>>> 200ccbb50b6fedfbf9e8b95bb0028c0e04ecbb22
 81D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\send\node_modules132757569568507795 1
 84D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\lodash\fp\mapKeys.js121436361000000000 0
 104D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\table\dist\mapDataUsingRowHeightIndex.js131212841140000000 0
@@ -533,6 +621,7 @@
 92D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\type-check\lib\parse-type.js130958412080000000 0
 75D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\assert-plus132757569700479831 1
 88D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\lodash\_createRecurry.js121436361000000000 0
+<<<<<<< HEAD
 73D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\sshpk\lib132757569303840305 1
 98D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\send\node_modules\debug\.npmignore131419593830000000 0
 102D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\less\test\less\plugin\plugin-scope2.js121436361000000000 0
@@ -552,6 +641,8 @@
 101D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\split2\node_modules\isarray\README.md130942154450000000 0
 110D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\caniuse-db\features-json\css-color-adjust.json132147936800000000 0
 90D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\performance-now\.npmignore131279171540000000 0
+=======
+>>>>>>> 200ccbb50b6fedfbf9e8b95bb0028c0e04ecbb22
 81D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\path-type\license130412725910000000 0
 87D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\type\iterable\ensure.js121436361000000000 0
 92D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\url-loader\node_modules\mime132757569844243030 1
@@ -853,6 +944,10 @@
 110D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\caniuse-db\features-json\css-first-letter.json132147936800000000 0
 89D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\entities\maps\decode.json121436361000000000 0
 77D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\wordwrap\test132757569284115641 1
+<<<<<<< HEAD
+=======
+72D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\dashdash132757570290608842 1
+>>>>>>> 200ccbb50b6fedfbf9e8b95bb0028c0e04ecbb22
 79D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\mocha\README.md121436361000000000 0
 66D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\he132757570185005209 1
 114D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\fbjs\node_modules\core-js\library\fn\math\asinh.js131132596110000000 0
@@ -1169,7 +1264,11 @@
 118D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\less\test\less\errors\property-interp-not-defined.less121436361000000000 0
 113D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\caniuse-db\features-json\requestidlecallback.json132147936800000000 0
 94D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\uri-js\dist\es5\uri.all.js.map131698539500000000 0
+<<<<<<< HEAD
 101D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\redux-promise-middleware\package.json132772283811186722 0
+=======
+101D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\redux-promise-middleware\package.json132757569705811408 0
+>>>>>>> 200ccbb50b6fedfbf9e8b95bb0028c0e04ecbb22
 89D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\minimist\test\kv_short.js130848981770000000 0
 75D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\extract-zip132757569764572659 1
 102D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\nugget\node_modules\debug\src\debug.js131505605660000000 0
@@ -1348,6 +1447,12 @@
 74D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\har-schema132757570176018914 1
 110D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\autoprefixer\node_modules\browserslist\LICENSE131290548850000000 0
 73D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\minstache132757570029151160 1
+<<<<<<< HEAD
+=======
+90D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\chai\lib\chai\assertion.js130914096510000000 0
+106D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\readline2\node_modules\mute-stream\mute.js130183242110000000 0
+118D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\fbjs\node_modules\core-js\modules\es6.object.freeze.js131132596110000000 0
+>>>>>>> 200ccbb50b6fedfbf9e8b95bb0028c0e04ecbb22
 116D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\fbjs\node_modules\core-js\library\modules\$.fails.js131132596110000000 0
 88D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\lodash.flatten\README.md131155832410000000 0
 78D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\write\index.js130826706650000000 0
@@ -1359,7 +1464,11 @@
 72D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\has-ansi132757570173351831 1
 75D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\has-symbols132757570173249349 1
 101D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\less\test\less\import\deeper\deeper-2132757569506542292 1
+<<<<<<< HEAD
 88D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\redux-promise-middleware132772283811366743 1
+=======
+88D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\redux-promise-middleware132757569763573016 1
+>>>>>>> 200ccbb50b6fedfbf9e8b95bb0028c0e04ecbb22
 105D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\read-pkg-up\node_modules\find-up\index.js131016725460000000 0
 87D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\hoist-non-react-statics132757569965322815 1
 78D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\source-map\lib132757569325271447 1
@@ -3108,7 +3217,11 @@
 95D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\js-yaml\lib\js-yaml\type\map.js121436361000000000 0
 125D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\fbjs\node_modules\core-js\library\fn\function\has-instance.js131132596110000000 0
 87D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\ajv\lib\dotjs\_limit.js132075873280000000 0
+<<<<<<< HEAD
 97D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\redux-promise-middleware\dist\umd132772283810021191 1
+=======
+97D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\redux-promise-middleware\dist\umd132757569280832378 1
+>>>>>>> 200ccbb50b6fedfbf9e8b95bb0028c0e04ecbb22
 100D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\circular-json\build\circular-json.js131390898670000000 0
 90D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\type\lib\safe-to-string.js121436361000000000 0
 86D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\type\integer\coerce.js121436361000000000 0
@@ -3146,7 +3259,11 @@
 85D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\loose-envify\index.js121436361000000000 0
 90D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\fbjs\lib\performanceNow.js131732590030000000 0
 86D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\trim-newlines\index.js130879912600000000 0
+<<<<<<< HEAD
 93D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\redux-promise-middleware\dist132772283809851241 1
+=======
+93D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\redux-promise-middleware\dist132757569279019031 1
+>>>>>>> 200ccbb50b6fedfbf9e8b95bb0028c0e04ecbb22
 112D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\split2\node_modules\readable-stream\package.json132757569823061210 0
 85D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\lodash\_mapToArray.js121436361000000000 0
 85D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\trim-newlines\license130857318570000000 0
@@ -3559,8 +3676,13 @@
 108D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\less\test\less\plugin\plugin-transitive.less121436361000000000 0
 111D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\table\node_modules\ajv\lib\dot\dependencies.jst131378572070000000 0
 93D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\source-map\dist\source-map.js131477959740000000 0
+<<<<<<< HEAD
 89D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\fbjs\lib\UserAgentData.js131732590000000000 0
 82D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\lodash\overArgs.js121436361000000000 0
+=======
+82D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\lodash\overArgs.js121436361000000000 0
+89D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\fbjs\lib\UserAgentData.js131732590000000000 0
+>>>>>>> 200ccbb50b6fedfbf9e8b95bb0028c0e04ecbb22
 102D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\enzyme\docs\api\ShallowWrapper\type.md131421912860000000 0
 83D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\statuses\HISTORY.md131666749230000000 0
 91D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\object-keys\test\foreach.js130161455180000000 0
@@ -3838,7 +3960,11 @@
 87D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\sumchecker\package.json132757569921578100 0
 90D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\sumchecker\node_modules\ms132757569957974140 1
 99D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\sumchecker\node_modules\ms\index.js131394109200000000 0
+<<<<<<< HEAD
 96D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\redux-promise-middleware\dist\es132772283809821196 1
+=======
+96D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\redux-promise-middleware\dist\es132757569278105314 1
+>>>>>>> 200ccbb50b6fedfbf9e8b95bb0028c0e04ecbb22
 87D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\fast-deep-equal\LICENSE131640641130000000 0
 97D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\js-yaml\lib\js-yaml\type\pairs.js121436361000000000 0
 114D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\require-uncached\node_modules\resolve-from\license130412725910000000 0
@@ -4220,7 +4346,11 @@
 100D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\split2\node_modules\isarray\index.js130942154810000000 0
 89D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\lodash\_baseSortedUniq.js121436361000000000 0
 84D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\lodash\fp\initial.js121436361000000000 0
+<<<<<<< HEAD
 92D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\redux-promise-middleware\src132772283810061170 1
+=======
+92D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\redux-promise-middleware\src132757569281532434 1
+>>>>>>> 200ccbb50b6fedfbf9e8b95bb0028c0e04ecbb22
 118D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\less\test\less\import-reference-issues\mixin-1968.less121436361000000000 0
 107D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\eslint\lib\rules\no-unexpected-multiline.js131354637820000000 0
 89D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\minimist\test\all_bool.js130833758740000000 0
@@ -4836,9 +4966,12 @@
 104D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\fbjs\node_modules\core-js\modules\es5.js131132596110000000 0
 116D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\fbjs\node_modules\core-js\library\fn\array\filter.js131132596110000000 0
 106D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\readline2\node_modules\mute-stream\LICENSE130765795050000000 0
+<<<<<<< HEAD
 90D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\chai\lib\chai\assertion.js130914096510000000 0
 106D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\readline2\node_modules\mute-stream\mute.js130183242110000000 0
 118D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\fbjs\node_modules\core-js\modules\es6.object.freeze.js131132596110000000 0
+=======
+>>>>>>> 200ccbb50b6fedfbf9e8b95bb0028c0e04ecbb22
 111D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\readline2\node_modules\mute-stream\package.json132757569963442230 0
 83D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\promise\src\core.js131420336580000000 0
 74D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\escope\src132757569320818665 1
@@ -12905,6 +13038,10 @@
 100D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\caniuse-db\region-usage-json\SC.json132147939060000000 0
 100D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\caniuse-db\region-usage-json\SD.json132147939160000000 0
 100D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\caniuse-db\region-usage-json\SE.json132147939160000000 0
+<<<<<<< HEAD
+=======
+100D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\caniuse-db\region-usage-json\SK.json132147939060000000 0
+>>>>>>> 200ccbb50b6fedfbf9e8b95bb0028c0e04ecbb22
 100D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\caniuse-db\region-usage-json\SM.json132147939060000000 0
 100D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\caniuse-db\region-usage-json\SN.json132147939060000000 0
 102D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\caniuse-db\features-json\wai-aria.json132147936800000000 0
@@ -13592,7 +13729,13 @@
 73D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\.bin\uuid132757570299046283 0
 77D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\.bin\uuid.ps1132757570299046283 0
 75D:\CodingSchool\ReactProjects\react200-weather-app\node_modules\.bin\_mocha132757570300630787 0
+<<<<<<< HEAD
 73D:\CodingSchool\ReactProjects\react200-weather-app\dist\index.06bf775f.js132772283144087961 0
 77D:\CodingSchool\ReactProjects\react200-weather-app\dist\index.06bf775f.js.map132772283144388022 0
 66D:\CodingSchool\ReactProjects\react200-weather-app\dist\index.html132772239615749618 0
+=======
+73D:\CodingSchool\ReactProjects\react200-weather-app\dist\index.06bf775f.js132767906958138687 0
+77D:\CodingSchool\ReactProjects\react200-weather-app\dist\index.06bf775f.js.map132767906958441097 0
+66D:\CodingSchool\ReactProjects\react200-weather-app\dist\index.html132767893600770303 0
+>>>>>>> 200ccbb50b6fedfbf9e8b95bb0028c0e04ecbb22
 72D:\CodingSchool\ReactProjects\react200-weather-app\.vscode\settings.json132766183971371128 0

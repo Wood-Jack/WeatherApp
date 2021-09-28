@@ -2,6 +2,10 @@
   "name": "origin-react-starter",
   "version": "0.1.0",
   "description": "Base application setup for creating a new react project.",
+<<<<<<< HEAD
+=======
+  
+>>>>>>> 200ccbb50b6fedfbf9e8b95bb0028c0e04ecbb22
   "scripts": {
     "start": "parcel public/index.html --open",
     "build": "npx parcel build public/index.html --no-source-maps",
