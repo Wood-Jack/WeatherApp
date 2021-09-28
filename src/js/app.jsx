@@ -21,10 +21,7 @@ export default class App extends React.Component {
          
           <div className="row">
             <CityInfo />
-<<<<<<< HEAD
             
-=======
->>>>>>> 200ccbb50b6fedfbf9e8b95bb0028c0e04ecbb22
             <SearchHistory />
           </div>
         </div>
